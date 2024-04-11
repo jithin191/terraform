@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sada-sada-zscaler",
+  "private_key_id": "6fd960e6ec1d39dc28818161f0c387315324da1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5zbZIU1tid49+\nBiivHd+JHtAhAplOREHXFyzqlRRQ+rz3P16wHSOsNrH2qdkMFvrBrvKPKmocyWge\nm7dAtyE99h5CK5vjx5vu/AOP/pZIaIcEhIWgIB54jh420Kn7CaT/dLoe5AjYqf05\nHCLMONTmeAJuemaFCc39IxCNc36hJESWt1bJyul5C9x1Bue21CjgPnvrLCRJL7dc\nCLfYrMSMKNrjXgHY57BkvEzPKFnYCGQiSMYySbPd1IHIL6VqArxVDy3IPkQD21/S\nigbJ69Azr2s1JihXiuDS5bRn0O4gEWZ8mKfwgiFessD92jIiz1sOyXLTH89ozQ7l\n8/QIWc4dAgMBAAECggEAAR2V2ptnC96F7k+zepFU7Ca00BxHQHLi6EEu8Nc2cvhu\nqZOp/NyPsRuVQXTGo2GMHbtDApgDd5Y4g+PTTmrMAQw/ncKmW2qtuyk7lGthLGg1\nyVGsFHtZl7iAQGGAjWn3oXsx3Fpa8S7nvvk54DN3F+QmL/DyZor/e7DpCxr2bj82\nePcHbjf3yM8sXpha/CAzg7IDObyDygRnA4x7K97AjGZxFrV2ppREGoktermWLqm9\ntBl4cEBY+TUz+CuvU/Zc1luLSInJbdWhJ4YkdpP3srsBgpCdS5LaP++lGnSVturA\nNa4zX4jwO3IhDk0Ixzr185lfIBl0hxlkos6gBGYkEQKBgQDuQQiYTWBdl7sOggST\neFtQmSAP71uBL036qsc4eaZ3j/yXzT9d1S4ye/3ManCPNC8bJkNZ272n8v48bW47\n1L1GzmVAHxqyX+wMfedEZVbnvvRB1yPZZtqOeUTXAJUPZPZt4BxlBzCOYZyb/Q5a\nn3Qd7xEucgdaBGBocrqer36obQKBgQDHpJD9ad+QzKEakGcXOYANvebqDnMKOAnh\nsX+QE8l5ojIzghDIUxMvETHWprXhiRSpigF+so3j7VMW1T6iSkMEBqP2UEvmAUbF\nXM4DYEYBmFo4KRYUdJ2lVVf48MKnJs0zK92/uG0s0x4aix0YgX0CQ2+UX6VwvFqu\nrpCFtvmOcQKBgQCKqXLVIQNatTn6wZTkNwH+MIBGhendj6h0oPv9VF+b6kL6Hkwo\n0i9m1l7pn3EPBzH7PROpsof4vSVWCeJEFBZspSasYO3qroT06Dm2xrwDeFE0GIAW\nwROmI9H6x635HauGWw5rhfmuhATfjDHUcETmPwLi4x6AN1fcshkGzeCLKQKBgB+J\ntsHhpMiqGtUodLCti7YgBsd4yuGVYrI9qQoopg5J+iY66M3Mmd44mCfxpA/h6Nqz\ni3LpYBLend6gh0l588ZCCkrR+nt2PijVdVIBNm3wFGiEzREkLvc8WS5hUk63iXkI\n9/ned5i6LSpCSbFiW04tOwY0ad06VBT+TKRi+F9xAoGAEnMKEhAh6aU6J1ZIAlhh\n3aDPSGy4hfkfJLZ5WzUNIAqfNXJOKtlHVgD1WuXSqEdSzpWsR1MtGEk95J8bikLa\n7ZYTrcBSTMzQ/xRuwdIi4epKam5WlKOj218cF2boS9he+sLCGHCyPieUKoaZB4Ck\ngLmJty/wCt6/r9MlMlCYVV0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zscaler-test@sada-sada-zscaler.iam.gserviceaccount.com",
+  "client_id": "112083682567108570808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zscaler-test%40sada-sada-zscaler.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
